@@ -1,2 +1,2 @@
-# php-web-down-up
+# Chek-Site
 PHP Check Status Website Down or Up
